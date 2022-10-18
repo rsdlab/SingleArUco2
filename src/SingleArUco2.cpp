@@ -314,8 +314,6 @@ RTC::ReturnCode_t SingleArUco2::onExecute(RTC::UniqueId /*ec_id*/)
     //desplay the obtained image
     if(!image.empty())
 	  {
-	    cv::imshow("Image Window",image);
-	    cv::waitKey(3);
 	    m_OutImage.data.image.width=image_width;
 	    m_OutImage.data.image.height=image_height;
 	    m_OutImage.data.image.raw_data.length(image_width*image_height*nchannels);
