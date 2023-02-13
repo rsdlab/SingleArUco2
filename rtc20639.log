@@ -1,0 +1,34 @@
+Feb 09 12:11:10.976 INFO: manager: 2.0.0
+Feb 09 12:11:10.976 INFO: manager: Copyright (C) 2003-2022, Noriaki Ando and OpenRTM development team,
+Feb 09 12:11:10.976 INFO: manager:   Intelligent Systems Research Institute, AIST,
+Feb 09 12:11:10.976 INFO: manager: Copyright (C) 2022, Noriaki Ando and OpenRTM development team,
+Feb 09 12:11:10.976 INFO: manager:   Industrial Cyber-Physical Research Center, AIST,
+Feb 09 12:11:10.976 INFO: manager:   All right reserved.
+Feb 09 12:11:10.976 INFO: manager: Manager starting.
+Feb 09 12:11:10.976 INFO: manager: Starting local logging.
+Feb 09 12:11:10.984 WARNING: NamingOnCorba: No endpoint for the CORBA naming service (localhost) was found.
+Feb 09 12:11:10.984 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+Feb 09 12:11:10.985 INFO: ManagerServant: Named manager reference (INS) was successfully created.
+Feb 09 12:11:10.986 WARNING: ManagerServant: Master manager not found
+Feb 09 12:11:10.987 INFO: LocalServiceAdmin: All the local services are enabled.
+Feb 09 12:11:11.022 INFO: ec_base: setRate(1000000.000000) done
+Feb 09 12:11:11.022 INFO: ec_base: setRate(1000.000000) done
+Feb 09 12:11:11.022 INFO: SingleArUco20: 1 execution context was created.
+Feb 09 12:11:11.023 INFO: SingleArUco20: Initial active configuration set is default.
+Feb 09 12:11:17.372 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Feb 09 12:11:21.048 INFO: ManagerServant: Master manager not found
+Feb 09 12:11:31.059 INFO: ManagerServant: Master manager not found
+Feb 09 12:11:41.071 INFO: ManagerServant: Master manager not found
+Feb 09 12:11:51.083 INFO: ManagerServant: Master manager not found
+Feb 09 12:12:01.095 INFO: ManagerServant: Master manager not found
+Feb 09 12:12:11.108 INFO: ManagerServant: Master manager not found
+Feb 09 12:12:21.120 INFO: ManagerServant: Master manager not found
+Feb 09 12:12:31.131 INFO: ManagerServant: Master manager not found
+Feb 09 12:12:41.142 INFO: ManagerServant: Master manager not found
+Feb 09 12:12:51.153 INFO: ManagerServant: Master manager not found
+Feb 09 12:13:01.165 INFO: ManagerServant: Master manager not found
+Feb 09 12:13:11.176 INFO: ManagerServant: Master manager not found
+Feb 09 12:13:21.188 INFO: ManagerServant: Master manager not found
+Feb 09 12:13:31.203 INFO: ManagerServant: Master manager not found
+Feb 09 12:13:41.217 INFO: ManagerServant: Master manager not found
+Feb 09 12:13:51.229 INFO: ManagerServant: Master manager not found
