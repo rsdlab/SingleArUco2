@@ -134,7 +134,7 @@ endif(IDL_FILES)
 add_subdirectory(include)
 MAP_ADD_STR(headers  "include/" comp_hdrs)
 add_subdirectory(src)
-add_subdirectory(serializer)
+
 
 if(BUILD_TESTS)
     # Universal settings
@@ -149,7 +149,6 @@ endif(BUILD_TESTS)
 if(BUILD_SOURCES)
     add_subdirectory(include)
     add_subdirectory(src)
-add_subdirectory(serializer)
 endif(BUILD_SOURCES)
 
 # Package creation
